@@ -1,0 +1,41 @@
+---
+title: Halogen Effects-Induced Bright D−π–A Fluorophore as Scaffold for NIR Fluorogenic
+  Probes with High Contrast
+authors:
+- Ming Liu
+- Wenhao Zhai
+- Haoliang Chen
+- Hao Zhang
+- Changhua Li
+date: '2020-08-01'
+publishDate: '2025-10-10T06:19:56.471815Z'
+publication_types:
+- article-journal
+publication: '*Analytical Chemistry*'
+doi: 10.1021/acs.analchem.0c02247
+abstract: Endowing ﬂuorogenic probes with ultrahigh contrast is essential to increasing
+  the accuracy of ﬂuorescence sensing and imaging. Phenolate-based D−π−A ﬂuorophores
+  (A−DOH) belong to a big family of ﬂuorophores and have attracted increasing attention
+  in ﬂuorogenic probe design. However, the intrinsic dilemma of weak intracellular
+  emission of traditional A−DOH ﬂuorophores resulted in low contrast during live cell
+  imaging. Herein, we present a general and robust approach to preparing novel A−DOH
+  ﬂuorophores with bright NIR ﬂuorescence in living cells based on the unique halogen
+  eﬀects. The reported chlorinated A−DOH ﬂuorophore (A1−2ClOH) has an extremely strong
+  ﬂuorescence in an aqueous solution of pH 7.4 and living cells, which is 194 and
+  30 times higher than that of the traditional halogen-free analogue (A1−OH), respectively.
+  We systematically investigated and demonstrated that the distinct −I and +M halogen
+  eﬀects, which led to a drastic decrease in the pKa value and a signiﬁcant enhancement
+  in the ﬂuorescence quantum yield, respectively, should be responsible for the tremendous
+  ﬂuorescence enhancement. The ﬂexible phenol caging chemistry allows one to prepare
+  multiple NIR ﬂuorogenic probes based on the A1−2ClOH scaﬀold with high contrast
+  for live cell imaging of a variety of analytes by introducing a corresponding triggering
+  moiety. Moreover, the conjugated azide group of A1−2ClOH enables the integration
+  of more functions as desired through a facile click reaction. A ﬂuorogenic probe
+  (mitoProbe-PN) was synthesized as a paradigm by equipping the A1−2ClOH scaﬀold with
+  a mitochondria-targeting moiety and a peroxynitrite-responsive triggering group
+  and demonstrated speciﬁc high-contrast ﬂuorescence imaging of endogenous OONO− in
+  mitochondria of living macrophages.
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.analchem.0c02247
+---
