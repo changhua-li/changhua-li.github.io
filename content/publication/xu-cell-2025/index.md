@@ -8,6 +8,10 @@ authors:
 - Weiqing Liu
 - Zihui Chen
 - Changhua Li*
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: '2025-09-01'
 publishDate: '2025-10-10T06:19:56.438287Z'
 publication_types:
