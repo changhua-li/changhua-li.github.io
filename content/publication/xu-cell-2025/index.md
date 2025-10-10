@@ -7,7 +7,7 @@ authors:
 - Yahui Cao
 - Weiqing Liu
 - Zihui Chen
-- **Changhua Li<sup>*</sup>**
+- Changhua Li*
 date: '2025-09-01'
 publishDate: '2025-10-10T06:19:56.438287Z'
 publication_types:
