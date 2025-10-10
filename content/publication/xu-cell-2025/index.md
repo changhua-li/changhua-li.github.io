@@ -38,5 +38,5 @@ abstract: While immune checkpoint blockade (ICB) therapy has revolutionized canc
   antitumor immune response. This versatile strategy, applicable to various membrane
   proteins, represents a signiﬁcant advance in immunotherapy, opening new avenues
   for more effective tumor immunotherapies.
-url_pdf: ''
+Links:
 ---
