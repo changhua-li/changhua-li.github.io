@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Chemistry (under supervision with Prof. Shiyong Liu)
+    - course: PhD in Chemistry
       institution: University of Science and Technology of China (USTC)
       year: 2012
     - course: BSc in Polymer Chemistry
@@ -71,5 +71,6 @@ user_groups:
 ---
 
 Prof. Li received his B.S. from the University of Science and Technology of China (USTC) in 2007 and completed his Ph.D. from the same University in 2012 under the supervision of Prof. Shiyong Liu. He subsequently pursued postdoctoral training at the University of Tokyo and RIKEN (Japan) from 2012 to 2015, working with Prof. Takuzo Aida. In 2015, he joined Nankai University as a tenure-track Professor and was promoted to Full Professor in 2023. 
-His research focuses on the development of innovative polymeric materials for biomedical applications, including photoactive polymeric materials for early tumor diagnosis and treatment, functional organic molecules and polymers for organelle function regulation, and precision immunotherapy materials against aging-related diseases. Prof. Li has received awards including the Outstanding Thesis Advisor Award from Nankai University, the Tianjin Youth Science and Technology Innovation Talent Award, the First Prize of Anhui Provincial Science and Technology Award (R4), the Ministry of Education New Academic Talent Award, and the President's Special Award from the Chinese Academy of Sciences. He is also a recipient of the National Science Foundation for Excellent Young Scholars funding.
+
+Prof. Li has received awards including the Outstanding Thesis Advisor Award from Nankai University, the Tianjin Youth Science and Technology Innovation Talent Award, the First Prize of Anhui Provincial Science and Technology Award (R4), the Ministry of Education New Academic Talent Award, and the President's Special Award from the Chinese Academy of Sciences. He is also a recipient of the National Science Foundation for Excellent Young Scholars funding.
 
