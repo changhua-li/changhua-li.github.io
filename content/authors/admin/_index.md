@@ -10,7 +10,7 @@ last_name: Li
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Chemistry
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Chemistry (Supervisior: Prof. Shiyong Liu)
+      institution: University of Science and Technology of China (USTC)
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Polymer Chemistry
+      institution: University of Science and Technology of China (USTC)
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:chli@nankai.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -64,7 +61,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: ture
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
