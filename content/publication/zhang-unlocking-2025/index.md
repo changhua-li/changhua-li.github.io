@@ -13,6 +13,7 @@ date: '2025-04-01'
 publishDate: '2025-10-10T06:19:56.585678Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*Angewandte Chemie International Edition, 64(16), e202424830*'
 doi: 10.1002/anie.202424830
 abstract: Selective ablation of tumor cells allows safe eradication, thereby minimizing
