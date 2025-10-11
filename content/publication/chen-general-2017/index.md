@@ -12,6 +12,7 @@ date: '2017-07-01'
 publishDate: '2025-10-10T06:19:56.449301Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*Journal of the American Chemical Society*'
 doi: 10.1021/jacs.7b05920
 abstract: A general approach toward highly ﬂuorogenic probes across the visible spectrum
