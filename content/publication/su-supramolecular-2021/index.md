@@ -15,6 +15,7 @@ date: '2021-03-01'
 publishDate: '2025-10-10T06:19:56.494239Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*ACS Nano*'
 doi: 10.1021/acsnano.0c09993
 abstract: The design of organic photothermal agents (PTAs) for in vivo applications
