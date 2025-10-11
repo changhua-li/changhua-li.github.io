@@ -14,7 +14,7 @@ publishDate: '2025-10-10T06:19:56.585678Z'
 publication_types:
 - article-journal
 - article-selected
-publication: '*Angewandte Chemie International Edition, 2025, 64(16), e202424830*'
+publication: '*Angewandte Chemie International Edition, 64(16), e202424830*'
 doi: 10.1002/anie.202424830
 abstract: Selective ablation of tumor cells allows safe eradication, thereby minimizing
   off-target damage, while specifically inducing immunogenic cell death (ICD) rather
