@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        Our group focuses on the development of innovative polymeric materials for biomedical applications, including photoactive polymeric materials for early tumor diagnosis and treatment, functional organic molecules and polymers for organelle function regulation, and precision immunotherapy materials against aging-related diseases.
+        Our group focuses on the development of innovative polymeric materials for biomedical applications, including (i) photoactive polymeric materials for early tumor diagnosis and treatment, (ii) functional organic molecules and polymers for organelle function regulation, and (iii) precision immunotherapy materials against aging-related diseases.
   
   - block: collection
     content:
