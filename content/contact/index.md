@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '38.9903'
+        longitude: '117.3485'
       directions: Rm. D418, Lab Hall, Nankai University
       office_hours:
         - 'Monday 10:00 to 13:00'
