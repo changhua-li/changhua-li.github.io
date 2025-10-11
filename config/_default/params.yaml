@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Changhua Li's Research Group. This work is licensed under {license}'
+    notice: '© {year} Changhua Li Research Group. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
