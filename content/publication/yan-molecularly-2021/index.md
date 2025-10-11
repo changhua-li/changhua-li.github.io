@@ -12,6 +12,7 @@ date: '2021-02-01'
 publishDate: '2025-10-10T06:19:56.502131Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*Advanced Functional Materials*'
 doi: 10.1002/adfm.202008406
 abstract: Abstract The J‐aggregation of dye‐functional group conjugates, which results
