@@ -7,14 +7,12 @@ authors:
 - Yahui Cao
 - Weiqing Liu
 - Zihui Chen
-- Changhua Li
+- Changhua Li*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
--  ''
--  ''
--  \*
+
 date: '2025-09-01'
 publishDate: '2025-10-10T06:19:56.438287Z'
 publication_types:
@@ -45,4 +43,5 @@ abstract: While immune checkpoint blockade (ICB) therapy has revolutionized canc
 Links:
 - name: URL
   url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/anie.202516014
+  
 ---
