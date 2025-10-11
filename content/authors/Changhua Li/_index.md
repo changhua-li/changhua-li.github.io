@@ -50,7 +50,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2cU3sFMAAAAJ
   - icon: orcid
-    icon_pack: fab
+    icon_pack: fas
     link: https://orcid.org/0000-0003-4688-7551
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
