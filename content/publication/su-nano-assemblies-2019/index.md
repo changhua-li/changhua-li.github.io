@@ -12,6 +12,7 @@ date: '2019-01-01'
 publishDate: '2025-10-10T06:19:56.464163Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*Journal of the American Chemical Society*'
 doi: 10.1021/jacs.8b10396
 abstract: Controlling the packing arrangements of dyes is a facile way of tuning their
