@@ -45,7 +45,7 @@ social:
     link: 'mailto:chli@nankai.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2cU3sFMAAAAJ
