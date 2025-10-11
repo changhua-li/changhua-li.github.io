@@ -7,7 +7,7 @@ authors:
 - Yahui Cao
 - Weiqing Liu
 - Zihui Chen
-- Changhua Li*
+- Admin*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
