@@ -15,6 +15,10 @@ sections:
         <br>
         
         Our group focuses on the development of innovative polymeric materials for biomedical applications, including (i) photoactive polymeric materials for early tumor diagnosis and treatment, (ii) functional organic molecules and polymers for organelle function regulation, and (iii) precision immunotherapy materials against aging-related diseases.
+      social:
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-4688-7551
   
   - block: collection
     content:
