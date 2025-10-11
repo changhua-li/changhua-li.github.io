@@ -12,6 +12,7 @@ date: '2019-11-01'
 publishDate: '2025-10-10T06:19:56.456875Z'
 publication_types:
 - article-journal
+- article-selected
 publication: '*Angewandte Chemie International Edition*'
 doi: 10.1002/anie.201907510
 abstract: Activatable photosensitizers (aPSs) sensitive to specific stimuli hold potential
