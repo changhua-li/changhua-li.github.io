@@ -14,13 +14,13 @@ author_notes:
 - "Equal contribution"
 -  ''
 -  ''
--  ""
+-  \*
 date: '2025-09-01'
 publishDate: '2025-10-10T06:19:56.438287Z'
 publication_types:
 - article-journal
 - article-selected
-publication: '*Angewandte Chemie International Edition, 64, e202516014*' 
+publication: '*Angewandte Chemie International Edition, 2025, 64, e202516014*' 
 doi: 10.1002/anie.202516014
 abstract: While immune checkpoint blockade (ICB) therapy has revolutionized cancer
   treatment, limitations persist due to factors like PD-L1 recycling, immunosuppressive
@@ -43,4 +43,6 @@ abstract: While immune checkpoint blockade (ICB) therapy has revolutionized canc
   proteins, represents a signiﬁcant advance in immunotherapy, opening new avenues
   for more effective tumor immunotherapies.
 Links:
+- name: URL
+  url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/anie.202516014
 ---
