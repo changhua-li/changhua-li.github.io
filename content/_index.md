@@ -47,6 +47,8 @@ sections:
     design:
       view: citation
       columns: '1'
+    text: |
+        {{% cta cta_link="./publication/" cta_text="See all →" %}}
 
   - block: markdown
     content:
