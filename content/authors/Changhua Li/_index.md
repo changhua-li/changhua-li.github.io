@@ -18,12 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on the development of organic molecules and polymers for organelle function regulation and for precision immunotherapy against aging-related diseases.
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Photoactive polymeric materials for early tumor diagnosis and treatment
+  - Organic molecules and polymers for organelle function regulation
+  - Precision immunotherapy against aging-related diseases
 
 education:
   courses:
@@ -69,6 +70,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prof. Li received his B.S. from the University of Science and Technology of China (USTC) in 2007 and completed his Ph.D. from the same University in 2012 under the supervision of Prof. Shiyong Liu. He subsequently pursued postdoctoral training at the University of Tokyo and RIKEN (Japan) from 2012 to 2015, working with Prof. Takuzo Aida. In 2015, he joined Nankai University as a tenure-track Professor and was promoted to Full Professor in 2023. 
+His research focuses on the development of innovative polymeric materials for biomedical applications, including photoactive polymeric materials for early tumor diagnosis and treatment, functional organic molecules and polymers for organelle function regulation, and precision immunotherapy materials against aging-related diseases. Prof. Li has received awards including the Outstanding Thesis Advisor Award from Nankai University, the Tianjin Youth Science and Technology Innovation Talent Award, the First Prize of Anhui Provincial Science and Technology Award (R4), the Ministry of Education New Academic Talent Award, and the President's Special Award from the Chinese Academy of Sciences. He is also a recipient of the National Science Foundation for Excellent Young Scholars funding.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
