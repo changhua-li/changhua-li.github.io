@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Chemistry (Supervisior: Prof. Shiyong Liu)
+    - course: PhD in Chemistry (under supervision with Prof. Shiyong Liu)
       institution: University of Science and Technology of China (USTC)
       year: 2012
     - course: BSc in Polymer Chemistry
