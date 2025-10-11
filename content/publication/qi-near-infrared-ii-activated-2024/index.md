@@ -9,12 +9,12 @@ authors:
 - Jiahui Zhao
 - Zihui Chen
 - Yahui Cao
-- Changhua Li
+- Changhua Li*
 date: '2024-12-01'
 publishDate: '2025-10-10T06:19:56.562919Z'
 publication_types:
 - article-journal
-publication: '*Journal of Medicinal Chemistry*'
+publication: '*Journal of Medicinal Chemistry, 67(23), 21329--21343*'
 doi: 10.1021/acs.jmedchem.4c02260
 abstract: Photoactivatable metallodrugs combining tumor cell eradication and immune
   stimulation hold immense promise for targeted cancer therapy. However, limitations
