@@ -8,15 +8,18 @@ authors:
 - Yanan Liu
 - Pei Luo
 - Wenhao Zhai
-- Qiangzhe Zhang
+- Qiangzhe Zhang*
 - Luyuan Li
-- Changhua Li
+- Changhua Li*
+- author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2021-03-01'
 publishDate: '2025-10-10T06:19:56.494239Z'
 publication_types:
 - article-journal
 - article-selected
-publication: '*ACS Nano*'
+publication: '*ACS Nano, 15(3), 5032-5042*'
 doi: 10.1021/acsnano.0c09993
 abstract: The design of organic photothermal agents (PTAs) for in vivo applications
   face a demanding set of performance requirements, especially intense NIR-absorptivity
