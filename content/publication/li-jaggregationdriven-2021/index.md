@@ -10,13 +10,16 @@ authors:
 - Meihui Su
 - Chun Yang
 - Hao Zhang
-- Changhua Li
+- Changhua Li*
+- author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2021-12-01'
 publishDate: '2025-10-10T06:19:56.509833Z'
 publication_types:
 - article-journal
 - article-selected
-publication: '*Advanced Functional Materials*'
+publication: '*Advanced Functional Materials, 31(51), 2105189*'
 doi: 10.1002/adfm.202105189
 abstract: Abstract Utilizing the J‐stacking of dyes to drive the assembly of amphiphilic
   polymers can not only construct supramolecular assemblies with novel architectures
